@@ -1,4 +1,5 @@
 # TitaniumPhoenix
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 A beautiful and lightweight web-proxy site built to be easy to use and modify for everyone.
 
